@@ -1,12 +1,10 @@
-# Notes about Autodock vina 
+# Notes about Autodock Vina 
 
-Shasha Feng
+Shasha Feng, 2020-01.
 
-2020-01.
+The following operations are on a Mac laptop. But they should also work in Linux systems. 
 
-
-
-1. Get the vina package
+1. Get the vina package 
 
    ```
     wget http://vina.scripps.edu/download/autodock_vina_1_1_2_linux_x86.tgz
@@ -46,7 +44,7 @@ Shasha Feng
    num_modes = 10
    ```
 
-   The results PDB file for ligand poses are in "out-10modes.pdbqt" and the docking summary is like follows:
+   The results PDB file for ligand poses are in "out-10modes.pdbqt", which can be visulized in PyMOL. And the docking summary is like follows:
 
    ```
    Detected 8 CPUs
