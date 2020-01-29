@@ -1,0 +1,13 @@
+receptor = pocket.pdbqt
+ligand = ligand-b.pdbqt
+
+center_x = 139 
+center_y = 145
+center_z = 171
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+num_modes = 10
+
