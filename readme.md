@@ -1,6 +1,4 @@
-# Notes about Autodock Vina 
-
-Shasha Feng, 2020-01.
+# Autodock Vina for Drug Pose Prediction: a Simple Demo 
 
 The following operations are on a Mac laptop. But they should also work in Linux systems. 
 
@@ -99,3 +97,4 @@ archive/
 └── pythonsh                  # Executable python file
 ```
 
+By Shasha Feng, 2020-01.
