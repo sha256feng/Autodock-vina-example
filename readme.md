@@ -97,4 +97,8 @@ archive/
 └── pythonsh                  # Executable python file
 ```
 
+## Reference 
+
+Vina manual: http://vina.scripps.edu/manual.html
+
 By Shasha Feng, 2020-01.
